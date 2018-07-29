@@ -62,7 +62,10 @@ Javascript example
 
       for (var i = 0 / 2; i < classes.length; i++) {
         if (checkCondition(classes[i]) === undefined)
-          console.log('undefined');
+          var img1 = document.querySelector('.img-1');
+          img1.addEventListener('load', function() {
+            console.log('undefined');
+          });
       }
 
     });
