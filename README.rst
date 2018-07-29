@@ -10,6 +10,10 @@ This package provides nothing but readme that contains code samples that should 
 Examples
 ========
 
+- `Python example`_
+- `Javascript example`_
+- `Bash example`_
+
 ==============
 Python example
 ==============

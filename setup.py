@@ -12,8 +12,8 @@ def read(name):
 
 
 setup(
-    name="PyPI warehouse syntax highlighting demo package",
-    version="0.1.10",
+    name="pypi-code-highlighting-demo",
+    version="0.1.12",
     author='Patryk Galczynski',
     author_email='galczynski.patryk@gmail.com',
     url='https://github.com/evemorgen/pypi-code-highlighting-demo',
